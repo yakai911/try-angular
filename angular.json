@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "agular-todo"
+    }
+  },
+  "defaultProject": "agular-todo",
+  "cli": {
+    "analytics": false
+  }
 }
